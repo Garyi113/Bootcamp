@@ -1,0 +1,11 @@
+header {
+  width: 300px;
+  height: 100px;
+  background-color: green;
+}
+
+.about-me {
+  width: 300px;
+  height: 100px;
+  background-color: blue;
+}
